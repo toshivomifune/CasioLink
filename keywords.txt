@@ -1,0 +1,6 @@
+CasioLink	KEYWORD1
+begin	KEYWORD2
+update	KEYWORD2
+setTransmitValue	KEYWORD2
+valueAvailable	KEYWORD2
+readValue	KEYWORD2
